@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "practice",
+      "day": "friday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "world cup",
+      "day": "monday",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
